@@ -1,6 +1,6 @@
 {
-  "name": "@reach/menu-button",
-  "version": "0.1.9-nl-beta.2",
+  "name": "@nestlabs/reach-menu-button",
+  "version": "0.1.9-nl-beta.3",
   "description": "Accessible React button dropdown menu.",
   "author": "Ryan Florence <@ryanflorence>",
   "license": "MIT",
